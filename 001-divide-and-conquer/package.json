@@ -1,0 +1,11 @@
+{
+  "name": "001-divide-and-conquer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "lodash": "^4.17.21"
+  }
+}
